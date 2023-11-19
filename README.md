@@ -1,4 +1,4 @@
-### Hi There Geeks👋
+### Hi There! fellow Geeks👋
 
 <!--
 **ThilakSparrow/ThilakSparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
