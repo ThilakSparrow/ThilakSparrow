@@ -1,6 +1,7 @@
 Hello Im Thilak ,
 
-<h1 style="font-family: 'DM Serif Display';"> Tech Stack </h1>
+## Tech Stack 
+ ![Java](https://img.shields.io/badge/java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
