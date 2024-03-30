@@ -1,4 +1,7 @@
 Hello Im Thilak ,
 
-<h1> Tech Stack </h1>
+<h1 style="font-family: 'DM Serif Display';"> Tech Stack </h1>
+
+
+
 
